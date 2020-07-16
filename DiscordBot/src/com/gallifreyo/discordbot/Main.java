@@ -23,7 +23,7 @@ public class Main {
 
     public static void main(String[] args) throws LoginException {
 
-        String token = "NzIyOTQ5OTUxNDQ5MDcxNjU2.XuqnEQ.yxGZuOupgJf5w9pDuh-DLxW6GBE";
+        String token = "token";
 
         int botStatus = -1;
 
